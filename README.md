@@ -1,3 +1,3 @@
 # Chess
 Adverserail AI algorithm.
-Two AI Chess with minmax algorithm and alpha beta pruning.
+Multiplayer AI Chess game implemented with minmax algorithm and alpha beta pruning.
